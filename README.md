@@ -12,7 +12,7 @@ First clone this repository
 $ git clone https://github.com/filipeqs/RedisDemo.git
 ```
 
-Set any of the Console Apps as Starter project and Run.
+Set any Apps as Starter project and Run.
 
 ## Resources
 
