@@ -16,4 +16,4 @@ Set any Apps as Starter project and Run.
 
 ## Resources
 
-- Icon: https://www.youtube.com/watch?v=UrQWii_kfIE&t=3775s
+- Tutorial: https://www.youtube.com/watch?v=UrQWii_kfIE&t=3775s
